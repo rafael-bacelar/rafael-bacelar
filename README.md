@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rafael Bacelar 😁
+## Bem-vindo(a) ao perfil do Rafael Bacelar 
 
  <div>
    <a href="https://github.com/rafael-bacelar">
